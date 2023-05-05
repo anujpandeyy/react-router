@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anujpandeyy/react-router.git/static/css/main.073c9b0a.css",
+    "main.js": "/anujpandeyy/react-router.git/static/js/main.d993fd3f.js",
+    "static/js/787.129f8df6.chunk.js": "/anujpandeyy/react-router.git/static/js/787.129f8df6.chunk.js",
+    "static/media/logo.svg": "/anujpandeyy/react-router.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anujpandeyy/react-router.git/index.html",
+    "main.073c9b0a.css.map": "/anujpandeyy/react-router.git/static/css/main.073c9b0a.css.map",
+    "main.d993fd3f.js.map": "/anujpandeyy/react-router.git/static/js/main.d993fd3f.js.map",
+    "787.129f8df6.chunk.js.map": "/anujpandeyy/react-router.git/static/js/787.129f8df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d993fd3f.js"
+  ]
+}
